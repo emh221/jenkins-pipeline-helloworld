@@ -5,6 +5,13 @@ pipeline {
             steps {
                 sh 'npm --version'
                 sh 'node eric.js'
+                sh 'node eric.js'
+                sh 'node eric.js'
+                sh 'node eric.js'
+                sh 'node eric.js'
+                sh 'node eric.js'
+                sh 'node eric.js'
+
             }
         }
     }
