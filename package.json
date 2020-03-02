@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-pipeline-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emh221/jenkins-pipeline-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emh221/jenkins-pipeline-helloworld/issues"
+  },
+  "homepage": "https://github.com/emh221/jenkins-pipeline-helloworld#readme",
+  "dependencies": {
+    "uuid": "^7.0.1"
+  }
+}
